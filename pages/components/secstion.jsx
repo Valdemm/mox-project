@@ -16,13 +16,13 @@ export default function Secstion() {
           Забронировать
         </a>
         <div class="btns">
-          <a href="#">
+          <a href="#get-started" class="btn-get-started scrollto">
             <i class="fa fa-apple fa-3x"></i> Рабочее место
           </a>
-          <a href="#">
+          <a href="#get-started" class="btn-get-started scrollto">
             <i class="fa fa-play fa-3x"></i> Стол
           </a>
-          <a href="#">
+          <a href="#get-started" class="btn-get-started scrollto">
             <i class="fa fa-windows fa-3x"></i> Локация
           </a>
         </div>
