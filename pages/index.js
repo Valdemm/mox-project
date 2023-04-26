@@ -1,11 +1,10 @@
 import Head from "next/head";
 import Header from "./components/header";
-import Nav from "./components/nav";
 import Secstion from "./components/secstion";
-import "bootstrap/dist/css/bootstrap.css";
 import AboutUs from "./components/about";
 import Features from "./components/features";
 import Gallerey from "./components/gallerey";
+import "bootstrap/dist/css/bootstrap.css";
 
 export default function Home() {
   return (

@@ -4,7 +4,7 @@ export default function Secstion() {
   return (
     <section id="hero">
       <div class="hero-container" data-aos="fade-in">
-        <h1>Добро пожаловать в коворкинг</h1>
+        <h1>Добро пожаловать в Смарт Офис</h1>
         <h2>Мох и Перья</h2>
         {/* <Image
           src=""

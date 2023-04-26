@@ -3,16 +3,23 @@ import Image from "next/image";
 export default function Gallerey() {
   return (
     <section id="screenshots" class="padd-section text-center">
-      <div class="container" data-aos="fade-up">
-        <div class="section-title text-center">
-          <h2>App Gallery</h2>
-          <p class="separator">Integer cursus bibendum augue ac cursus .</p>
+      <div className="container" data-aos="fade-up">
+        <div className="section-title text-center">
+          <h2>Фотогалерея</h2>
+          <p className="separator">Фото контент помещений</p>
         </div>
 
-        <div class="screens-slider swiper">
-          <div class="swiper-wrapper align-items-center">
+        <div className="screens-slider swiper">
+          <div className="swiper-wrapper align-items-center">
             <div className="swiper-slide">
-              <img src="assets/img/screen/1.jpg" className="img-fluid" alt="" />
+              <Image
+                src=""
+                className="img-fluid"
+                alt="Фото схемы"
+                role="presentation"
+                width={1000}
+                hidden={1000}
+              />
             </div>
             <div className="swiper-slide">
               <img src="assets/img/screen/2.jpg" className="img-fluid" alt="" />
@@ -36,7 +43,7 @@ export default function Gallerey() {
               <img src="assets/img/screen/8.jpg" className="img-fluid" alt="" />
             </div>
           </div>
-          <div class="swiper-pagination"></div>
+          <div className="swiper-pagination"></div>
         </div>
       </div>
     </section>

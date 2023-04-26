@@ -16,15 +16,12 @@ export default function Features() {
             <div className="feature-block">
               <Image
                 src="@/public/img/svg/paint-palette.svg"
-                alt="img"
+                alt="Фото специалиста"
                 width={60}
                 height={60}
               />
-              <h4>creative design</h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry
-              </p>
+              <h4>Специалист</h4>
+              <p>Услуга специалиста</p>
             </div>
           </div>
 
@@ -32,15 +29,12 @@ export default function Features() {
             <div className="feature-block">
               <Image
                 src="@/public/img/svg/paint-palette.svg"
-                alt="img"
+                alt="Фотография специалиста"
                 width={60}
                 height={60}
               />
-              <h4>Retina Ready</h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry
-              </p>
+              <h4>Специалист</h4>
+              <p>Услуга специалиста</p>
             </div>
           </div>
 
@@ -48,15 +42,12 @@ export default function Features() {
             <div className="feature-block">
               <Image
                 src="@/public/img/svg/paint-palette.svg"
-                alt="img"
+                alt="Фотография специалиста"
                 width={60}
                 height={60}
               />
-              <h4>easy to use</h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry
-              </p>
+              <h4>Специалист</h4>
+              <p>Услуга специалиста</p>
             </div>
           </div>
 
@@ -64,15 +55,12 @@ export default function Features() {
             <div className="feature-block">
               <Image
                 src="@/public/img/svg/paint-palette.svg"
-                alt="img"
+                alt="Фотография специалиста"
                 width={60}
                 height={60}
               />
-              <h4>Free Updates</h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry
-              </p>
+              <h4>Специалист</h4>
+              <p>Услуга специалиста</p>
             </div>
           </div>
 
@@ -80,15 +68,12 @@ export default function Features() {
             <div className="feature-block">
               <Image
                 src="@/public/img/svg/paint-palette.svg"
-                alt="img"
+                alt="Фотография специалиста"
                 width={60}
                 height={60}
               />
-              <h4>Free Updates</h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry
-              </p>
+              <h4>Специалист</h4>
+              <p>Услуга специалиста</p>
             </div>
           </div>
 
@@ -96,15 +81,12 @@ export default function Features() {
             <div className="feature-block">
               <Image
                 src="@/public/img/svg/paint-palette.svg"
-                alt="img"
+                alt="Фотография специалиста"
                 width={60}
                 height={60}
               />
-              <h4>App store support</h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry
-              </p>
+              <h4>Специалист</h4>
+              <p>Услуга специалиста</p>
             </div>
           </div>
 
@@ -112,15 +94,12 @@ export default function Features() {
             <div className="feature-block">
               <Image
                 src="@/public/img/svg/paint-palette.svg"
-                alt="img"
+                alt="Фотография специалиста"
                 width={60}
                 height={60}
               />
-              <h4>Perfect Pixel</h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry
-              </p>
+              <h4>Специалист</h4>
+              <p>Услуга специалиста</p>
             </div>
           </div>
 
@@ -128,15 +107,12 @@ export default function Features() {
             <div className="feature-block">
               <Image
                 src="@/public/img/svg/paint-palette.svg"
-                alt="img"
+                alt="Фотография специалиста"
                 width={60}
                 height={60}
               />
-              <h4>clean codes</h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry
-              </p>
+              <h4>Специалист</h4>
+              <p>Услуга специалиста</p>
             </div>
           </div>
         </div>
